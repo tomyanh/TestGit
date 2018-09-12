@@ -8,6 +8,6 @@ namespace TestGit
 {
     class Class1
     {
-        //test
+        int i = 1;
     }
 }
