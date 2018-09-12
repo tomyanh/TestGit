@@ -8,5 +8,6 @@ namespace TestGit
 {
     class Class1
     {
+        //test
     }
 }
