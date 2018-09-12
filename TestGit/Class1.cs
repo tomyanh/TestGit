@@ -9,6 +9,6 @@ namespace TestGit
     class Class1
     {
         int i = 1;
-        int n=21;
+        int n=210;
     }
 }
